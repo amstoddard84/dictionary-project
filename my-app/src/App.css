@@ -1,5 +1,16 @@
 header {
-  font-family: Arial, Helvetica, sans-serif;
-  font-weight: bold;
+  color: #8f43a9;
+  font-family: "Arsenal", sans-serif;
+  font-weight: 700;
   text-align: center;
+}
+h1 {
+  font-size: 48px;
+}
+body {
+  background-color: #f0facc;
+}
+img {
+  max-width: 80px;
+  max-height: 80px;
 }
